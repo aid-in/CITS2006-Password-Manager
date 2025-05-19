@@ -1,4 +1,4 @@
-# SecureCLI Password Manager
+# CITS2006 Password Manager
 
 This is a simple command-line password manager written in Python. It uses the `cryptography` library to encrypt and decrypt stored passwords based on a master password.
 
